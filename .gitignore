@@ -41,3 +41,6 @@ lerna-debug.log*
 
 # GraphQL schema
 src/schema.gql 
+
+# Claude Code (settings locais podem conter segredos)
+.claude/
